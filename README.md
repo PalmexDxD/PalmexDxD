@@ -1,4 +1,20 @@
-## Hi there 👋
+👋 Hi there, I'm Miguel Palma (Palmex)
+
+🎯 Junior Developer | Web & Cybersecurity Enthusiast
+
+I'm a passionate developer focused on building modern web applications and continuously improving my skills in Cybersecurity and Software Development.
+Currently finishing my Level 5 professional course in programming, with hands-on experience in real-world projects.
+
+💡 I enjoy solving problems, learning new technologies, and creating efficient and scalable solutions.
+
+🚀 About Me
+🎓 Completed a Level 4 Professional Programming Course
+📚 Currently finishing Level 5
+💻 Working with Web Development (WordPress & custom solutions)
+🔐 Strong interest in Cybersecurity
+⚙️ Prefer building things from scratch over using heavy CMS systems
+🎮 Gamer in my free time (GTA V, Fortnite, Cyberpunk, Rocket League
+
 ### 🧰 Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -129,3 +145,13 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+📈 Goals
+🔐 Transition into Cybersecurity
+🧠 Master low-level and high-performance languages like Rust
+🚀 Build scalable full-stack applications
+🛠️ Contribute to open-source projects
+
+📫 Contact
+💼 [My LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)
+📧 [Email](miguelperdigao04@gmail.com)
