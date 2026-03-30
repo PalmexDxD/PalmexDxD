@@ -147,10 +147,10 @@ Currently finishing my Level 5 professional course in programming, with hands-on
 />
 <br/>
 📈 Goals <br/>
-🔐 Transition into Cybersecurity
-🧠 Master low-level and high-performance languages like Rust
-🚀 Build scalable full-stack applications
-🛠️ Contribute to open-source projects
+🔐 Transition into Cybersecurity<br/>
+🧠 Master low-level and high-performance languages like Rust<br/>
+🚀 Build scalable full-stack applications<br/>
+🛠️ Contribute to open-source projects<br/>
 <br/>
 📫 Contact <br/>
 💼 [My LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)<br/>
