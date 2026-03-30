@@ -146,7 +146,7 @@ Currently finishing my Level 5 professional course in programming, with hands-on
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
-📈 Goals
+📈 Goals <br/>
 🔐 Transition into Cybersecurity
 🧠 Master low-level and high-performance languages like Rust
 🚀 Build scalable full-stack applications
