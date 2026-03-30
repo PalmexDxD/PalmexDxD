@@ -145,13 +145,13 @@ Currently finishing my Level 5 professional course in programming, with hands-on
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<br/>
 📈 Goals
 🔐 Transition into Cybersecurity
 🧠 Master low-level and high-performance languages like Rust
 🚀 Build scalable full-stack applications
 🛠️ Contribute to open-source projects
-
-📫 Contact
-💼 [My LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)
+<br/>
+📫 Contact <br/>
+💼 [My LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)<br/>
 📧 [Email](miguelperdigao04@gmail.com)
