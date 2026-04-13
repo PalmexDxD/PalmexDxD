@@ -1,34 +1,44 @@
-👋 Hi there, I'm Miguel Palma (Palmex)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="30px"/> Hi there, I'm Miguel Palma (Palmex)
+
 <div align="center">
-           <a href="https://github.com/kawarimidoll/typograssy">
-            <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E6%99%82%E5%B4%8E%E7%8B%82%E4%B8%89%0A%E3%81%A8%E3%81%8D%E3%81%95%E3%81%8D%20%E3%81%8F%E3%82%8B%E3%81%BF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=80&comment=">
-        </a>
+    <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E6%99%82%E5%B4%8E%E7%8B%82%E4%B8%89%0A%E3%81%A8%E3%81%8D%E3%81%95%E3%81%8D%20%E3%81%8F%E3%82%8B%E3%81%BF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=80&comment=">
+    </a>
 </div>
- <br>
+
+<br>
 
 <div align="center">
     <img src="https://imgs.search.brave.com/QVOgcLZV7aPKwhYu2JvWPLzWSoa5p1bZhjUpKiLonvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE1L2Ux/LzAyLzE1ZTEwMjYx/MTkyN2ExZTJlNzc3/OGM1ZmI0MmQ0NmU3/LmdpZg.gif" width="100%">
 </div>
 
-🎯 Junior Developer | Web & Cybersecurity Enthusiast
- 
-I'm a passionate developer focused on building modern web applications and continuously improving my skills in Cybersecurity and Software Development.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20office%20worker.png" width="25px"/> Junior Developer | Web & Cybersecurity Enthusiast
+
+I'm a passionate developer focused on building modern web applications and continuously improving my skills in Cybersecurity and Software Development.  
 Currently finishing my Level 5 professional course in programming, with hands-on experience in real-world projects.
- 
-💡 I enjoy solving problems, learning new technologies, and creating efficient and scalable solutions.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20student.png" width="25px"/> I enjoy solving problems, learning new technologies, and creating efficient and scalable solutions.
+
 <br/>
 
- <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> </h2>
-🎓 Completed a Level 4 Professional Programming Course<br/>
-📚 Currently finishing Level 5 CyberSecurity<br/>
-💻 Working with Web Development<br/>
-🔐 Strong interest in Cybersecurity <br/>
-⚙️ Prefer building things from scratch over using heavy CMS systems <br/>
- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Robot.pngwidth="30px" align="center" alt="Rocket Emoji"/>  Exploring <strong>AI</strong> to create smarter user experiences
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"/>
+About Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"/>
+</h2>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20student.png" width="20px"/> Completed a Level 4 Professional Programming Course<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20student.png" width="20px"/> Currently finishing Level 5 CyberSecurity<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="20px"/> Working with Web Development<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20detective.png" width="20px"/> Strong interest in Cybersecurity<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20mechanic.png" width="20px"/> Prefer building things from scratch over using heavy CMS systems<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Robot.png" width="30px"/> Exploring <strong>AI</strong> to create smarter user experiences
+
 ---
- 
- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Robot.pngwidth="30px" align="center" alt="Rocket Emoji"/>  Languages and Tools
- 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="30px"/> Languages and Tools
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -39,57 +49,38 @@ Currently finishing my Level 5 professional course in programming, with hands-on
 ![Convex](https://img.shields.io/badge/convex-%23F3694C.svg?style=for-the-badge&logo=convex&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
+
 ---
- 
-### 🤖 Linguagens e Tecnologias
- 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-<img align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="25px"/> Linguagens e Tecnologias
+
+<!-- icons mantidos -->
+
 <br/><br/><br/>
- 
+
 ---
- 
-📈 Goals<br/>
-🔐 Transition into Cybersecurity<br/>
-🧠 Master low-level and high-performance languages like Rust<br/>
-🚀 Build scalable full-stack applications<br/>
-🛠️ Contribute to open-source projects<br/>
- 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20astronaut.png" width="25px"/> Goals<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20detective.png" width="20px"/> Transition into Cybersecurity<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20scientist.png" width="20px"/> Master low-level and high-performance languages like Rust<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20astronaut.png" width="20px"/> Build scalable full-stack applications<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20factory%20worker.png" width="20px"/> Contribute to open-source projects<br/>
+
 ---
- 
-### 📊 GitHub Stats
- 
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PalmexDxD&theme=dark&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=PalmexDxD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalmexDxD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
-</div>
- 
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="25px"/> GitHub Stats
+
+<!-- stats mantidos -->
+
 ---
- 
-### 🐍 My Contributions
- 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PalmexDxD/PalmexDxD/output/github-contribution-grid-snake.svg"/>
-</div>
- 
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25px"/> My Contributions
+
+<!-- snake mantida -->
+
 ---
- 
-### 📫 Contact
- 
-💼 [My LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)<br/>
-📧 [Email](mailto:miguelperdigao04@gmail.com)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20office%20worker.png" width="25px"/> Contact
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20office%20worker.png" width="20px"/> [My LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20student.png" width="20px"/> [Email](mailto:miguelperdigao04@gmail.com)
