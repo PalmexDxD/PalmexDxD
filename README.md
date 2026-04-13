@@ -1,8 +1,8 @@
 👋 Hi there, I'm Miguel Palma (Palmex)
 <div align="center">
-    <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
-    </a> <img alt="typograssy" src=" https://typograssy.deno.dev/api?scheme=orange&text=PalmexDxD&comment=Generated%20by%20PalmexDxD%20Creator:%20kawarimidoll/typograssy" >
+        <a href="https://github.com/kawarimidoll/typograssy">
+            <img alt="typograssy" src="https://typograssy.deno.dev/api?                text=%E6%99%82%E5%B4%8E%E7%8B%82%E4%B8%89%0A%E3%81%A8%E3%81%8D%E3%81%95%E3%81%8D%20%E3%81%8F%E3%82%8B%E3%81%BF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+        </a>
 </div>
  <br>
 
