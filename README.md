@@ -17,11 +17,11 @@ Currently finishing my Level 5 professional course in programming, with hands-on
  
 💡 I enjoy solving problems, learning new technologies, and creating efficient and scalable solutions.
 <br/>
- 
-🚀 About Me <br/>
+
+ <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> </h2>
 🎓 Completed a Level 4 Professional Programming Course<br/>
 📚 Currently finishing Level 5 CyberSecurity<br/>
-💻 Working with Web Development (WordPress & custom solutions)<br/>
+💻 Working with Web Development<br/>
 🔐 Strong interest in Cybersecurity <br/>
 ⚙️ Prefer building things from scratch over using heavy CMS systems <br/>
  
