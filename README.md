@@ -24,10 +24,10 @@ Currently finishing my Level 5 professional course in programming, with hands-on
 💻 Working with Web Development<br/>
 🔐 Strong interest in Cybersecurity <br/>
 ⚙️ Prefer building things from scratch over using heavy CMS systems <br/>
- 
+ <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Robot.pngwidth="30px" align="center" alt="Rocket Emoji"/>  Exploring <strong>AI</strong> to create smarter user experiences
 ---
  
-### 🧰 Languages and Tools
+ <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Robot.pngwidth="30px" align="center" alt="Rocket Emoji"/>  Languages and Tools
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
