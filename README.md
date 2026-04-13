@@ -74,7 +74,7 @@
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Bullseye.png" width="25px"/> Goals
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20detective.png" width="20px"/> Transition into Cybersecurity  
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png" width="20px"/> Transition into Cybersecurity  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20scientist.png" width="20px"/> Master low-level systems & Rust  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="20px"/> Build scalable full-stack apps  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20factory%20worker.png" width="20px"/> Contribute to open-source projects  
@@ -93,7 +93,7 @@
 
 ---
 
-## <https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png" width="25px"/> Contributions
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png" width="25px"/> Contributions
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PalmexDxD/PalmexDxD/output/github-contribution-grid-snake.svg"/>
@@ -101,7 +101,7 @@
 
 ---
 
-## <https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" width="25px"/> Contacts
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" width="25px"/> Contacts
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20office%20worker.png" width="20px"/> [LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="20px"/> [Email](mailto:miguelperdigao04@gmail.com)
