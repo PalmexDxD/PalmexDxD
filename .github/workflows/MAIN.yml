@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */23 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 env:
@@ -12,9 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # 🔥 ESSENCIAL para fazer push
+
     steps:
-      # Checkout
+      # Checkout com token (IMPORTANTE)
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       # Gerar snake
       - uses: Platane/snk@v3
@@ -24,17 +29,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      # Debug (opcional)
+      # Debug
       - run: git status
 
-      # Commit + Push
+      # Commit + Push (corrigido)
       - name: Commit and push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add .
           git commit -m "generate snake" || echo "No changes"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
 
       # Deploy para branch output
       - uses: crazy-max/ghaction-github-pages@v4
