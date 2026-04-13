@@ -1,4 +1,5 @@
 👋 Hi there, I'm Miguel Palma (Palmex)
+https://typograssy.deno.dev/api?scheme=orange&text=PalmexDxD&comment=Generated%20by%20PalmexDxD%20Creator:%20kawarimidoll/typograssy
  
 🎯 Junior Developer | Web & Cybersecurity Enthusiast
  
