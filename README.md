@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="40px" title="Developer"/>
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="40px" title="Developer"/>
  Hi there, I'm Miguel Palma (Palmex)
 </h1>
 
@@ -20,15 +20,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Person%20Surfing.png" width="25px"/> Tech Stack
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="25px" title="Developer"/> Junior Developer | Web & Cybersecurity Enthusiast
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20student.png" width="25px" title="Student"/> Currently finishing my Level 5 Professional Programming Course
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="25px" title="Developer"/>Junior Developer | Web & Cybersecurity Enthusiast
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20detective.png" width="25px" title="Cybersecurity"/> Strong interest in Cybersecurity & Ethical Hacking
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" width="25px" title="Student"/>Currently finishing my Level 5 Professional Programming Course
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20mechanic.png" width="25px" title="Builder"/> Prefer building systems from scratch over CMS tools
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" width="25px" title="CyberSecurity"/> Strong interest in Cybersecurity & Ethical Hacking
+
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Brick.png" width="25px" title="Builder"/>  Prefer building systems from scratch over CMS tools
 
 <br/>
 
@@ -39,18 +40,22 @@
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TanStack](https://img.shields.io/badge/tanstack-%23EF4444.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![Convex](https://img.shields.io/badge/convex-%23F3694C.svg?style=for-the-badge&logo=convex&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
 
 ---
 
-## ⚙️ Languages & Tools
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="25px"/> Languages & Tools
 
 <p align="left">
 
@@ -67,7 +72,7 @@
 
 ---
 
-## 🎯 Goals
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Bullseye.png" width="25px"/> Goals
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20detective.png" width="20px"/> Transition into Cybersecurity  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20scientist.png" width="20px"/> Master low-level systems & Rust  
@@ -76,7 +81,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="25px"/> GitHub Stats
 
  
 <div align="center">
@@ -88,7 +93,7 @@
 
 ---
 
-## 🐍 Contributions
+## <https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png" width="25px"/> Contributions
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PalmexDxD/PalmexDxD/output/github-contribution-grid-snake.svg"/>
@@ -96,7 +101,7 @@
 
 ---
 
-## 📫 Contact
+## <https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" width="25px"/> Contacts
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20office%20worker.png" width="20px"/> [LinkedIn](https://www.linkedin.com/in/miguel-palma-8572b63b1/)  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="20px"/> [Email](mailto:miguelperdigao04@gmail.com)
