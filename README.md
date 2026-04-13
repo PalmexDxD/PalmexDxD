@@ -4,7 +4,12 @@
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
     </a> <img alt="typograssy" src=" https://typograssy.deno.dev/api?scheme=orange&text=PalmexDxD&comment=Generated%20by%20PalmexDxD%20Creator:%20kawarimidoll/typograssy" >
 </div>
- 
+ <br>
+
+<div align="center">
+    <img src="https://imgs.search.brave.com/QVOgcLZV7aPKwhYu2JvWPLzWSoa5p1bZhjUpKiLonvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE1L2Ux/LzAyLzE1ZTEwMjYx/MTkyN2ExZTJlNzc3/OGM1ZmI0MmQ0NmU3/LmdpZg.gif" width="80%">
+</div>
+
 🎯 Junior Developer | Web & Cybersecurity Enthusiast
  
 I'm a passionate developer focused on building modern web applications and continuously improving my skills in Cybersecurity and Software Development.
