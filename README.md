@@ -7,7 +7,7 @@
  <br>
 
 <div align="center">
-    <img src="https://imgs.search.brave.com/QVOgcLZV7aPKwhYu2JvWPLzWSoa5p1bZhjUpKiLonvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE1L2Ux/LzAyLzE1ZTEwMjYx/MTkyN2ExZTJlNzc3/OGM1ZmI0MmQ0NmU3/LmdpZg.gif" width="80%">
+    <img src="https://imgs.search.brave.com/QVOgcLZV7aPKwhYu2JvWPLzWSoa5p1bZhjUpKiLonvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE1L2Ux/LzAyLzE1ZTEwMjYx/MTkyN2ExZTJlNzc3/OGM1ZmI0MmQ0NmU3/LmdpZg.gif" width="100%">
 </div>
 
 🎯 Junior Developer | Web & Cybersecurity Enthusiast
