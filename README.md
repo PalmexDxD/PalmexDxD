@@ -35,8 +35,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px"/> Passionate about building scalable, modern web applications and constantly improving my skills.
 
 ---
-
-## 🧠 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25px"/> Tech Stack
 
 <p align="center">
 
