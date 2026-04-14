@@ -24,6 +24,10 @@
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Person%20Surfing.png" width="25px"/> Tech Stack
 
+<div>
+  <img src="https://media1.tenor.com/m/wHcFhonA9ygAAAAd/yuno-gasai-yukkiteru.gif" width="300px" align="right" alt="Gasai Yuno"/>
+</div>
+
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="25px" title="Developer"/>Junior Developer | Web & Cybersecurity Enthusiast
 
@@ -76,10 +80,17 @@
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Bullseye.png" width="25px"/> Goals
 
+<div>
+  <img src="https://media1.tenor.com/m/zUB4q7ZL5vYAAAAC/lluciferzxc.gif" width="300px" align="right" alt="Kurumi Tokisaki"/>
+</div>
+
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png" width="20px"/> Transition into Cybersecurity  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20scientist.png" width="20px"/> Master low-level systems & Rust  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="20px"/> Build scalable full-stack apps  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20factory%20worker.png" width="20px"/> Contribute to open-source projects  
+<br/>
+<br/>
+<br/>
 
 ---
 
