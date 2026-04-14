@@ -13,7 +13,9 @@
 </div>
 
 <br/>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=I'm+not+pretending+to+be+an+ally+of+justice.;I'm+just+a+villain+whose+interests+don't+match+yours%2E" alt="Typing SVG" />
+</div>
 <div align="center">
 <img src="https://imgs.search.brave.com/QVOgcLZV7aPKwhYu2JvWPLzWSoa5p1bZhjUpKiLonvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE1L2Ux/LzAyLzE1ZTEwMjYx/MTkyN2ExZTJlNzc3/OGM1ZmI0MmQ0NmU3/LmdpZg.gif" width="100%">
 </div>
@@ -85,10 +87,9 @@
 
  
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PalmexDxD&theme=dark&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=PalmexDxD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalmexDxD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PalmexDxD&theme=dark&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+ </a>
+
 </div>
 
 ---
