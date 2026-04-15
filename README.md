@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/kawarimidoll/typograssy">
-<img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E6%99%82%E5%B4%8E%E7%8B%82%E4%B8%89%0A%E3%81%A8%E3%81%8D%E3%81%95%E3%81%8D%20%E3%81%8F%E3%82%8B%E3%81%BF&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=75">
+<img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E6%99%82%E5%B4%8E%E7%8B%82%E4%B8%89%0A%E3%81%A8%E3%81%8D%E3%81%95%E3%81%8D%20%E3%81%8F%E3%82%8B%E3%81%BF&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=20">
 </a>
 
 </div>
