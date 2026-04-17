@@ -83,7 +83,7 @@
 <div>
   <img src="https://media1.tenor.com/m/zUB4q7ZL5vYAAAAC/lluciferzxc.gif" width="300px" align="right" alt="Kurumi Tokisaki"/>
 </div>
-
+I'm currently learning everything about the AI's
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png" width="20px"/> Transition into Cybersecurity  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20scientist.png" width="20px"/> Master low-level systems & Rust  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20technologist.png" width="20px"/> Build scalable full-stack apps  
